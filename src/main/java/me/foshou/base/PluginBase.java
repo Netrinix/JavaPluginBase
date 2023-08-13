@@ -1,4 +1,4 @@
-package dev.drrockymc.base;
+package me.foshou.base;
 
 import lombok.Getter;
 import org.bukkit.plugin.java.JavaPlugin;
